@@ -37,9 +37,9 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-    "UI UX Designer remote",
-    "Product Designer remote",
-    "Mid-level UIUX Designer",
+    "طراح رابط کاربری",
+    "پروداکت دیزاینر ریموت",
+    "طراح UIUX ریموت",
     "طراح محصول ریموت via linkedin",
     "UI UX Designer remote via linkedin",
 ]

@@ -40,7 +40,7 @@ SEARCH_QUERIES = [
     "UI UX Designer remote",
     "Product Designer remote",
     "Mid-level UIUX Designer",
-    "UI Designer remote",
+    "طراح محصول ریموت via linkedin",
     "UI UX Designer remote via linkedin",
 ]
 

@@ -4,7 +4,7 @@ on:
 schedule:
   - cron: "30 3 * * *"
   - cron: "30 13 * * *"
-  workflow_dispatch:         # اجرای دستی از تب Actions
+workflow_dispatch:         # اجرای دستی از تب Actions
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # رفع اخطار Node.js
